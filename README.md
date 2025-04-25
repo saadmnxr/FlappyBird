@@ -19,7 +19,6 @@ Download the files <a href="src/flappybird/FlappyBird.java">FlappyBird.java</a> 
 as those are the files containing the source code.
 
 ## Credits
-This game was made as part of a Graphics Assignment during Masters Sem II.
 <br>The project was taken from this <a href="https://youtu.be/I1qTZaUcFX0">Youtube Video</a> by 
 <a href="https://github.com/Jaryt">Jaryt Bustard</a>.
 <br>He has also a number of other games created on his Youtube Channel/Github Profile.
